@@ -6,7 +6,7 @@ Connected Homes builds products at the intersection of energy and the internet-o
 
 ##What we need##
 
-We are looking for  a Lead Data Engineer to run our Data Platform team who are building the next generation greenfield Data Platform for Connected Homes. It’s a greenfield project so there will be considerable scope to influence the outcome through your tech lead; data engineering skills; and knowledge of open-source technologies.
+We are looking for  a Lead Data Engineer to run the team who are building the next-generation Data Platform for Connected Homes. It’s a greenfield project so there will be considerable scope to influence the outcome through your tech lead; data engineering skills; and knowledge of open-source technologies.
 
 The platform will be Connected Homes end ­to ­end data solution - streaming data from internet-­of-­things sensors, clickstreams and other high volume sources; validating and storing; aggregating and processing; providing a platform to run data -science algorithms; and delivering data back to applications; third parties and other systems via restful API’s
 
